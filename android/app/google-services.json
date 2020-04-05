@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893496554929",
+    "firebase_url": "https://aces-timer-86934.firebaseio.com",
+    "project_id": "aces-timer-86934",
+    "storage_bucket": "aces-timer-86934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893496554929:android:c1d9a9076ff0c4ff",
+        "android_client_info": {
+          "package_name": "com.example.aces_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893496554929-u4v1oomt38vq0a8hchp6mbff80me5enc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT5JhI0qLF_z7OrrWtj7hDMBp7UCS3oy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893496554929-u4v1oomt38vq0a8hchp6mbff80me5enc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
